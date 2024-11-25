@@ -1,1 +1,1 @@
-cri-3kbnydbvbkw3cl48.cn-beijing.personal.cr.aliyuncs.com/fuyushuo/cadvisor:v0.49.1
+gcr.io/cadvisor/cadvisor:v0.49.1
